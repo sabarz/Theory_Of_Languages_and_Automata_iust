@@ -1,0 +1,16 @@
+E:\saba folder\term 4002\theory of language\project2\soal1\soal1\bin\Debug\net5.0\soal1.exe
+E:\saba folder\term 4002\theory of language\project2\soal1\soal1\bin\Debug\net5.0\soal1.deps.json
+E:\saba folder\term 4002\theory of language\project2\soal1\soal1\bin\Debug\net5.0\soal1.runtimeconfig.json
+E:\saba folder\term 4002\theory of language\project2\soal1\soal1\bin\Debug\net5.0\soal1.runtimeconfig.dev.json
+E:\saba folder\term 4002\theory of language\project2\soal1\soal1\bin\Debug\net5.0\soal1.dll
+E:\saba folder\term 4002\theory of language\project2\soal1\soal1\bin\Debug\net5.0\ref\soal1.dll
+E:\saba folder\term 4002\theory of language\project2\soal1\soal1\bin\Debug\net5.0\soal1.pdb
+E:\saba folder\term 4002\theory of language\project2\soal1\soal1\obj\Debug\net5.0\soal1.csproj.AssemblyReference.cache
+E:\saba folder\term 4002\theory of language\project2\soal1\soal1\obj\Debug\net5.0\soal1.GeneratedMSBuildEditorConfig.editorconfig
+E:\saba folder\term 4002\theory of language\project2\soal1\soal1\obj\Debug\net5.0\soal1.AssemblyInfoInputs.cache
+E:\saba folder\term 4002\theory of language\project2\soal1\soal1\obj\Debug\net5.0\soal1.AssemblyInfo.cs
+E:\saba folder\term 4002\theory of language\project2\soal1\soal1\obj\Debug\net5.0\soal1.csproj.CoreCompileInputs.cache
+E:\saba folder\term 4002\theory of language\project2\soal1\soal1\obj\Debug\net5.0\soal1.dll
+E:\saba folder\term 4002\theory of language\project2\soal1\soal1\obj\Debug\net5.0\ref\soal1.dll
+E:\saba folder\term 4002\theory of language\project2\soal1\soal1\obj\Debug\net5.0\soal1.pdb
+E:\saba folder\term 4002\theory of language\project2\soal1\soal1\obj\Debug\net5.0\soal1.genruntimeconfig.cache
